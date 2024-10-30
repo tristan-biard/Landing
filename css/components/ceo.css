@@ -1,0 +1,24 @@
+.ceo-profile {
+    display: flex;
+    align-items: center;
+    margin: 40px 0;
+}
+
+.ceo-photo {
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+
+.ceo-info {
+    max-width: 600px;
+}
+
+.ceo-info h3 {
+    margin: 0 0 10px;
+}
+
+.ceo-info p {
+    line-height: 1.6;
+}
